@@ -73,22 +73,23 @@ Interactive mapping of global economic indicators:
 ---
 
 ## 📁 Repository Structure
+---
 
-global-economic-visualization/
-│
-├── data/
-│ └── dataset.csv
-│
-├── notebooks/
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_exploratory_analysis.ipynb
-│ ├── 03_visualizations.ipynb
-│ └── 04_folium_maps.ipynb
-│
-├── images/
-│ └── charts/
-│
-└── README.md
+- global-economic-visualization/
+- │
+- ├── data/
+- │ └── dataset.csv
+- │
+- ├── notebooks/
+- │ ├── 01_data_cleaning.ipynb
+- │ ├── 02_exploratory_analysis.ipynb
+- │ ├── 03_visualizations.ipynb
+- │ └── 04_folium_maps.ipynb
+- │
+- ├── images/
+- │ └── charts/
+- │
+- └── README.md
 ---
 
 ---
